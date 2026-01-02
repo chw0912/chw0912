@@ -4,11 +4,13 @@
 <h4> 💡 Contact 💡 </h4>
 </div>
 
+---
+
 <div align=center>
 <h4> 📚 Stack 📚 </h4>
 </div>
 
-----
+---
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 
@@ -18,6 +20,6 @@
 <h4> 🕹️ ️Algorithm 🕹️ </h4>
 </div>
 
-----
+---
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnd28)](https://solved.ac/gmldnd28)
