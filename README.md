@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Woong's%20Github&fontSize=60&fontColor=fffff0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Woong's%20Github&fontSize=60&fontColor=fffff0)
 
 <div align=center>
 <h4> 💡 Contact 💡 </h4>
@@ -31,8 +31,13 @@
 
 <div align=center>
 <h4> 🕹️ ️Algorithm 🕹️ </h4>
+
+---
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnd28)](https://solved.ac/gmldnd28)
+
 </div>
 
 ---
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnd28)](https://solved.ac/gmldnd28)
+
