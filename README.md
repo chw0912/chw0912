@@ -27,6 +27,16 @@
 
 </div>
 
+<div align=center>
+<h4> 📚 Stack 📚 </h4>
+
+---
+
+![ ](https://raw.githubusercontent.com/chw0912/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![ ](https://raw.githubusercontent.com/chw0912/github-stats-transparent/refs/heads/output/generated/languages.svg)
+
+
+</div>
 
 
 <div align=center>
