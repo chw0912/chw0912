@@ -1,6 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Woong's%20Github&fontSize=60&fontColor=fffff0)
 
 <div align=center>
+
+<h4> 👋 About Me 👋 </h4>
+
+---
+
+</div>
+
+```java
+public class Backend_Developer {
+    	private final String major = "Computer Science & Public Administration";
+		private final String study = "Java, Spring Boot, Algorithm";
+    	private final String focus = "안정적이고 확장 가능한 서비스 개발";
+    	private final String goals = "배움을 두려워하지 않고 깊이 있게 탐구하는 개발자";
+}
+```
+
+
+
+
+<div align=center>
 <h4> 💡 Contact 💡 </h4>
 
 ---
