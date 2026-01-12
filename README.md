@@ -5,7 +5,7 @@
 
 ---
 
-[![Blog](https://img.shields.io/badge/Blog-EC6148?style=for-the-badge&logo=tistory&logoColor=white&link=https://chw-dev.tistory.com/)]("https://chw-dev.tistory.com/")
+[![Blog](https://img.shields.io/badge/Blog-EC6148?style=for-the-badge&logo=tistory&logoColor=white&link=https://chw-dev.tistory.com/)](https://chw-dev.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huiwoong-choi-7a8229373/)](https://www.linkedin.com/in/huiwoong-choi-7a8229373/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gmldnd28@gmail.com)](mailto:gmldnd28@gmail.com)
 	
