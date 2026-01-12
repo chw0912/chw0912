@@ -43,9 +43,9 @@
 <h4> 🕹️ ️Algorithm 🕹️ </h4>
 
 ---
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnd28)](https://solved.ac/gmldnd28)
-![Programmers프로필](https://raw.githubusercontent.com/chw0912/programmers-badge/master/static/result.svg)
+| Baekjoon | Programmers |
+| :---: | :---: |
+| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmldnd28)](https://solved.ac/gmldnd28) | ![Programmers프로필](https://raw.githubusercontent.com/chw0912/programmers-badge/master/static/result.svg)|
 
 </div>
 
